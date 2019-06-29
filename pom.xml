@@ -156,7 +156,7 @@
       </plugins>
     </pluginManagement>
   </build>
-<distributionManagement>
+<!--<distributionManagement>
     <repository>
         <id>Deployment</id>
         <name>Internal Release1</name>
@@ -167,5 +167,5 @@
         <name>Internal Release</name>
         <url>http://107.21.137.68:8081/repository/DevOps_Snapshot/</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement>--!>
 </project>
